@@ -18,6 +18,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Self Employed** (Sep '18 - Present)  
 _Musician_
 
+- For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
+
 - Any experience relevent to software development
 
 **Company Name** (start-date to end-date)  
@@ -49,6 +51,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Determined
 
 #### Creative
+
+#### Adaptable
 
 ## Education
 
@@ -82,6 +86,3 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Animation** I have recently discovered an interest in 2d animation and have very quickly learned animation techniques and software, which I use to create videos for my music as well as telling short stories.
 - **Football** When I'm not creating things, I enjoy playing and watching football and consider it to be the most entertaining way of staying healthy.
 - **Reading** I am a huge fan of historical literature, particularly relating to events of the 20th century and I read whenver I can find the time.
-
-
-Playing piano, composing and producing music, creating 2d animations, playing football. 
