@@ -49,15 +49,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Newcastle University / (2011-2014)
+#### Newcastle University / (Sept '11 - Jun '14)
 
 - BA (Hons) in Music
 - 2:1
 - Composed a piece of music that was selected to be performed by The Royal Northern Sinfonia
 
-#### Any other qualifications
+#### Canterbury College / (Sept '08 - Jul '10)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BTEC National Diploma in Music
+- Triple Distinction
 
 ## Hobbies
 
