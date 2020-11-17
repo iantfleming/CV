@@ -1,6 +1,6 @@
 ## Ian Fleming
 
-I am a driven and ambitious Full Stack Junior Developer looking for a role where I can continue to hone my skills as a developer while contributing to the success of the company.
+I am a driven and ambitious Full Stack Junior Developer looking for a role where I can continue to hone my skills as a developer while contributing to the success of the company. I am currently enrolled on a 12 week long intensive software development course with Makers Academy. 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -13,8 +13,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self Employed** (Sep '18 - Present)  
+_Musician_
 
 - Any experience relevent to software development
 
