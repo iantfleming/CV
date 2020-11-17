@@ -62,7 +62,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BTEC National Diploma in Music
 - Triple Distinction
 
+#### ABRSM / (Jun '10)
+
+- Distinction in grade 8 piano
+- Merit in grade 8 music theory
+
 ## Hobbies
 
-- **Piano:** Achieved a distinction in ABRSM grade 8 piano only 3 years after taking up the instrument.
+- **Piano:** I enjoy learning new pieces of music as well as improving my jazz improvisation skills.
 Playing piano, composing and producing music, creating 2d animations, playing football. 
