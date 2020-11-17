@@ -22,8 +22,8 @@ _Musician_
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**St Mary & St Michael Catholic Primary School** (Oct '16 - Jul '18)  
+_SEN Teaching Assistant_
 
 - Any experience relevent to software development
 
