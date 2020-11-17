@@ -27,7 +27,9 @@ _Your job title_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Fast learner
+
+throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. For example, I was able to achieve a distinction in grade 8 piano only 3 years after taking up the instrument. Additionally, through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. This includes the ability to work out and resolve any issues that I have faced with these programmes.
 
 - Experience
 - Achievements
