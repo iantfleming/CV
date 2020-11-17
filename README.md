@@ -72,6 +72,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - **Piano:** I enjoy learning new pieces of music as well as improving my jazz improvisation skills.
 - **Compostion** I have composed music for several pieces of award winning comedy theatre. I enjoy composing and producing in an array of styles, including classical, jazz, pop, musical theatre and more.
 - **Animation** I have recently discovered an interest in 2d animation and have very quickly learned animation techniques and software, which I use to create videos for my music as well as telling short stories.
+- **Football** When I'm not creating things, I enjoy playing and watching football and consider it to be the most entertaining way of staying healthy.
+- **Reading** I am a huge fan of historical literature, particularly relating to events of the 20th century and I read whenver I can find the time.
 
 
 Playing piano, composing and producing music, creating 2d animations, playing football. 
