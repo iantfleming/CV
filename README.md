@@ -64,5 +64,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-- # Piano
+- #### Piano
 Playing piano, composing and producing music, creating 2d animations, playing football. 
