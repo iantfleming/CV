@@ -64,5 +64,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-- #### Piano: *Achieved a distinction in ABRSM grade 8 piano only 3 years after taking up the instrument.
-Playing piano, composing and producing music, creating 2d animations, playing football.* 
+- #### Piano: Achieved a distinction in ABRSM grade 8 piano only 3 years after taking up the instrument.
+Playing piano, composing and producing music, creating 2d animations, playing football. 
