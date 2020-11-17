@@ -49,10 +49,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Newcastle University / College (2011-2014)
+#### Newcastle University / (2011-2014)
 
 - BA (Hons) in Music
-- Grade
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
@@ -61,4 +61,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Playing piano, composing and producing music, creating 2d animations, playing football. 
