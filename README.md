@@ -70,5 +70,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Hobbies
 
 - **Piano:** I enjoy learning new pieces of music as well as improving my jazz improvisation skills.
-- **Compostion** I have composed music for several pieces of award winning comedy theatre. I enjoy composing and producing in several styles, including classical, jazz, pop, musical theatre and more.
+- **Compostion** I have composed music for several pieces of award winning comedy theatre. I enjoy 
+composing and producing in several styles, including classical, jazz, pop, musical theatre and more.
 Playing piano, composing and producing music, creating 2d animations, playing football. 
