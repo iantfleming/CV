@@ -15,14 +15,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Self Employed** (Sep '18 - Present)  
+**Self Employed** / (Sep '18 - Present)  
 _Musician_
 
 - For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
 
 - Any experience relevent to software development
 
-**St Mary & St Michael Catholic Primary School** (Oct '16 - Jul '18)  
+**St Mary & St Michael Catholic Primary School** / (Oct '16 - Jul '18)  
 _SEN Teaching Assistant_
 
 - Any experience relevent to software development
