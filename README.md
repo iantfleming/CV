@@ -49,9 +49,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Newcastle University / College (2011-2014)
 
-- Subject, any specialisms
+- BA (Hons) in Music
 - Grade
 - Other cool stuff
 
