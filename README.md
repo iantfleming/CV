@@ -1,4 +1,4 @@
-## Your Name
+## Ian Fleming
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BA (Hons) in Music
 - 2:1
-- Other cool stuff
+- Composed a piece of music that was selected to be performed by The Royal Northern Sinfonia
 
 #### Any other qualifications
 
