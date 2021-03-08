@@ -4,7 +4,7 @@ I am a driven and ambitious **Full Stack Junior Developer** looking for a role w
 
 After graduating from Newcastle University with a degree in music, I spent 4 years working as a special educational needs teaching assistant and freelance composer and piano teacher. In the last 2 years I have focused exclusively on composition and teaching. Along with my work in music education, I have also performed in and written for several successful plays and performed around the country.
 
-I am excited by the scale of opportunites that a tech role has to offer. I am also excited to have the chance to put my newfound skills to use in a completely novel environment. 
+I am excited by the scale of opportunites that a tech role has to offer and look forward to being given the chance to put my newfound skills to use in a novel environment. 
 
 ## Projects
 
