@@ -10,7 +10,7 @@ I am excited by the scale of opportunites that a tech role has to offer and look
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Looking Glass**            | My final group project at Makers. An app that allows a user to create profiles and share film recommendations. | React, Ruby, Rails |
+| [**Looking Glass**](https://github.com/iantfleming/looking_glass_final_project)            | My final group project at Makers. An app that allows a user to create profiles and share film recommendations. | React, Ruby, Rails, Rspec |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
