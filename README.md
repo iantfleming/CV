@@ -33,7 +33,9 @@ _SEN Teaching Assistant_
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Thrives under pressure
-Whilst on a gap year, I was able to achieve a distinction in grade 8 piano and a merit in grade 8 music theory in get a place at Newcastle University whilst also writing a musical which raised over £600 for a cancer charity
+Whilst on a gap year, I was able to achieve a distinction in grade 8 piano and a merit in grade 8 music theory in get a place at Newcastle University whilst also writing a musical which raised over £600 for a cancer charity.
+
+Also able to complete Makers while still teaching students in the evening.
 
 Also mention working in high pressure environments such as the pru and with Edward
 
