@@ -18,7 +18,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Self Employed** / (Sep '18 - Present)  
 _Musician_
 
-- For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
+- For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old all the way up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
 
 - Any experience relevent to software development
 
@@ -33,7 +33,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Fast learner
 
-throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. For example, I was able to achieve a distinction in grade 8 piano only 3 years after taking up the instrument. Additionally, through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. This includes the ability to work out and resolve any issues that I have faced with these programmes.
+throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. Joining Makers Academy and learning several coding languages including Ruby and Javascript in only 12 weeks is one of many examples of my ability to learn and apply skills quickly. Additionally, In 2011 I was able to achieve a distinction in grade 8 piano only 3 years after taking up the instrument. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
 
 - Experience
 - Achievements
