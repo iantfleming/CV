@@ -61,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct '20 - Feb '21)
 
 - OOP, TDD, MVC, DDD
 - Pair programming and group work
