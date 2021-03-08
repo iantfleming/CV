@@ -33,15 +33,13 @@ _SEN Teaching Assistant_
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Thrives under pressure
-Whilst on a gap year, I was able to achieve a distinction in grade 8 piano and a merit in grade 8 music theory in get a place at Newcastle University whilst also writing a musical which raised over £600 for a cancer charity.
+Completing all 16 weeks of Makers Academy, while still working in the evenings put me under a considerable amount of pressure which I was able to overcome and produce excellent work alongside members of various teams I was a part of which can be viewed on my [GitHub account](https://github.com/iantfleming).
 
-Also able to complete Makers while still teaching students in the evening.
-
-Also mention working in high pressure environments such as the pru and with Edward
+Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 piano with a distinction and a merit in ABRSM grade 8 music theory. This helped me to receive a place at Newcastle University. At the same time I was doing this, I was also writing the score to a full 2 act musical which went on to raise over £600 for a cancer charity.
 
 #### Fast learner
 
-Throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. Joining Makers Academy and learning several coding languages including Ruby and Javascript in only 12 weeks is one of many examples of my ability to learn and apply skills quickly. Additionally, In 2011 I was able to achieve a distinction in grade 8 piano only 3 years after taking up the instrument. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
+Throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. Joining Makers Academy and learning several coding languages including Ruby and Javascript in only 12 weeks is one of many examples of my ability to learn and apply skills quickly. Additionally, I took only 3 years after to get to grade 8 in piano from having no experience at all. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
 
 - Experience
 - Achievements
