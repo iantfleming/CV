@@ -59,6 +59,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Creative
 
 #### Adaptable
+Just before the first British lockdown took place in March 2020, my main source of income was in person piano lessons which would soon be disallowed under lockdown rules. Thinking on my feet, I was quickly able to work out how to move all of my teaching online to considerable success. Since lockdown began, I have tutored 3 students through their ABRSM piano exams, indlucing one student who was attempting grade 7.  
+Adapting to different groups and roles during the Makers course. (talk about how we switched leadership roles daily).
+Able to change musical compositions quickly at the behest of commissioners. 
+
 
 ## Education
 
