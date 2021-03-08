@@ -85,7 +85,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Merit in grade 8 music theory
 
 ## Hobbies
-
+- **Software development:** Learning new languages and creating exciting new apps.
 - **Piano:** I enjoy learning new pieces of music as well as improving my jazz improvisation skills.
 - **Compostion** I have composed music for several pieces of award winning comedy theatre. I enjoy composing and producing in an array of styles, including classical, jazz, pop, musical theatre and more.
 - **Animation** I have recently discovered an interest in 2d animation and have very quickly learned animation techniques and software, which I use to create videos for my music as well as telling short stories.
