@@ -1,12 +1,10 @@
 ## Ian Fleming
 
-I am a driven and ambitious **Full Stack Junior Developer** looking for a role where I can continue to hone my skills while contributing to the success of the company. I have just completed a 16 week long intensive software development course with Makers Academy.
+I am a driven and ambitious **Full Stack Junior Developer** looking for a role where I can continue to hone my skills while contributing to the success of the company. I have recently completed a 16 week long intensive software development course with Makers Academy.
 
-**Tech Skills:**  
+After graduating from Newcastle University with a degree in music, I spent 4 years working as a special educational needs teaching assistant and freelance composer and piano teacher. In the last 2 years I have focused exclusively on composition and teaching. Along with my work in music education, I have also performed in and written for several successful plays and performed around the country.
 
-As a creative, I am excited by prospect of using my imagination to work on truly exciting things within the tech world.
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am excited by the scale of opportunites and the many different fields that a tech role has to offer. I am also excited to have the chance to put my new skills to use in an exciting environment. 
 
 ## Projects
 
