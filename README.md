@@ -33,7 +33,7 @@ _SEN Teaching Assistant_
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Thrives under pressure
-Completing all 16 weeks of Makers Academy, while still working in the evenings put me under a considerable amount of pressure which I was able to overcome and produce excellent work alongside members of various teams I was a part of which can be viewed on my [GitHub account](https://github.com/iantfleming).
+Completing all 16 weeks of Makers Academy, while still working in the evenings put me under a considerable amount of pressure which I was able to overcome and produce excellent work alongside members of various teams I was a part of which can be viewed on my [GitHub](https://github.com/iantfleming) account.
 
 Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 piano with a distinction and a merit in ABRSM grade 8 music theory. This helped me to receive a place at Newcastle University. At the same time I was doing this, I was also writing the score to a full 2 act musical which went on to raise over £600 for a cancer charity.
 
