@@ -10,7 +10,7 @@ I am excited by the scale of opportunites that a tech role has to offer and look
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Looking Glass**            | My final group project at Makers. An app that allows a user to create profiles and share film recommendations. | React, Ruby, Rails |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
@@ -69,6 +69,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - React, JQuery
 - RSpec, Jasmine
+- API
 
 #### Newcastle University / (Sept '11 - Jun '14)
 
