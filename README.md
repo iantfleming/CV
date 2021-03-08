@@ -39,7 +39,7 @@ Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 pian
 
 #### Fast learner
 
-Throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. Joining Makers Academy and learning several coding languages including Ruby and Javascript in only 12 weeks is one of many examples of my ability to learn and apply skills quickly. Additionally, I took only 3 years after to get to grade 8 in piano from having no experience at all. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
+Throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. Joining Makers Academy and learning several coding languages to a proficient level, including Ruby and Javascript in only 16 weeks demonstrates one of the many examples of my ability to learn and apply skills quickly. Additionally, I took only 3 years after to get to grade 8 in piano from having no experience at all. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
 
 - Experience
 - Achievements
