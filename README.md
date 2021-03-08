@@ -2,7 +2,7 @@
 
 I am a driven and ambitious Full stack junior developer looking for a role where I can continue to hone my skills while contributing to the success of the company. I have just completed a 16 week long intensive software development course with Makers Academy.
 
-# Tech Skills: 
+#### Tech Skills: 
 
 As a creative, I am excited by prospect of using my imagination to work on truly exciting things within the tech world.
 
