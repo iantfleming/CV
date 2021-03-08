@@ -64,8 +64,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (start_date to end_date)
 
 - OOP, TDD, MVC, DDD
+- Pair programming and group work
 - Agile/XP
 - Ruby, Rails, JavaScript
+- React, JQuery
 - RSpec, Jasmine
 
 #### Newcastle University / (Sept '11 - Jun '14)
