@@ -26,8 +26,6 @@ _Special Educational Needs Teaching Assistant_
 
 Before becoming a freelance musician full time, I worked as a teaching assistant for a student with special educational needs. This role involved many responsibilities, both in helping the student I worked 1-1 with, and serving the school's wider needs. One of my responsibilities was to help to develop strategies for preparing the student I worked with for his year 6 SAT's as much as possible. I would also be in charge of dealing with the behaviour of the student which at times could be volatile. On a larger scale, the school would trust me with ensuring the safety of students while on school trips, involving the following of strict procedures to ensure there were no safety breaches. 
 
-- Any experience relevent to software development
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -40,19 +38,6 @@ Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 pian
 #### Fast learner
 
 Throughout my life, I have demonstrated that I am capable of learning new and difficult skills at an impressive speed. Joining Makers Academy and learning several coding languages to a proficient level, including Ruby and Javascript in only 16 weeks demonstrates one of many examples. Additionally, I took only 3 years after to accomplish grade 8 in piano from having no experience of the instrument at all. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
-
-- Experience
-- Achievements
-- Evidence
-
-#### Analytical
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Determined
 
