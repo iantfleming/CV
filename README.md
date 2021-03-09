@@ -1,6 +1,6 @@
 ## Ian Fleming
 
-[Projects](#Projects)
+[Projects](##Projects)
 
 I am a driven and ambitious **Full Stack Junior Developer** looking for a role where I can continue to hone my skills while contributing to the success of the company. I have recently completed a 16 week long intensive software development course with Makers Academy.
 
