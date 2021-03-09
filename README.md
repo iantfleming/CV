@@ -58,13 +58,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 While at Makers I was always determined not only to get the most I possibly could out of the course, but also to complete all work to the highest standard I could, including group projects and solo projects. For the final 2 weeks at Makers, we were given the opportunity to create our own apps from scratch. Much of the apps functionality could have been implemented using Ruby, HTML and CSS. However, this would not have given us the exact results that we wished for, so instead, we decided as a group to use JavaScript, and more importantly, React, which we as a group were all much less familiar with. Using both of these allowed us to create much more dynamic and interesting web pages, giving us the effect we were looking for. My group and I were determined to make the app as close to our vision as possible, even if it meant challenging ourselves in what was a very short time frame for such an ambitious project.
 
-#### Creative
-
 #### Adaptable
-Just before the first British lockdown took place in March 2020, my main source of income was in person piano lessons which would soon be disallowed under lockdown rules. Thinking on my feet, I was quickly able to work out how to move all of my teaching online to considerable success. Since lockdown began, I have tutored 3 students through their ABRSM piano exams, indlucing one student who was attempting grade 7.  
-Adapting to different groups and roles during the Makers course. (talk about how we switched leadership roles daily).
-Able to change musical compositions quickly at the behest of commissioners. 
-
+Just before the first British lockdown took place in March 2020, my main source of income was in person piano lessons which would soon be disallowed under lockdown rules. Thinking on my feet, I was quickly able to work out a plan to move all of my teaching online, which worked to considerable success. Since lockdown began, I have tutored 3 students through their ABRSM piano exams, including one student who was able to pass ABRSM grade 7. Another example of my adaptability comes from my time at Makers Academy. Not only did I have to adapt to pair programming with a new person every day, when work in groups, both teams decided to elect a new leader every day. Being selected for the leadership role required group decision making such as who would work together, and what the aims of the day would be. Despite taking on the role at short notice I was easily able to guide my group through a successful days work. The high quality of our final products are testament to this fact.
 
 ## Education
 
@@ -76,7 +71,7 @@ Able to change musical compositions quickly at the behest of commissioners.
 - Ruby, Rails, JavaScript
 - React, JQuery
 - RSpec, Jasmine
-- API
+- API handling
 
 #### Newcastle University / (Sept '11 - Jun '14)
 
