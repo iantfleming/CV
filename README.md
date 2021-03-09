@@ -12,19 +12,19 @@ I am excited by the scale of opportunites that a tech role has to offer and look
 | ---------------------------- | ----------------- | ----------------- |
 | [**Looking Glass**](https://github.com/iantfleming/looking_glass_final_project)            | My final group project at Makers. An app that allows a user to create profiles and share film recommendations with friends. | React, Ruby, Rails, PSQL, Rspec |
 | [**acebook-JAANIS**](https://github.com/iantfleming/acebook-JAANIS) | A group project I took part in at Makers. We were tasked with creating a clone of Facebook with the ability to comment, edit comments and like posts.  | Ruby, Bootstrap, Javascript, PSQL, Rspec, Heroku             |
-[**Bank-Tech-Test**](https://github.com/iantfleming/Bank-Tech-Test)   | A solo project in which I hade to implement the basic functionality of a bank account with simple features such as withdraw, deposit and view bank statements. | Ruby, Rspec, SimpleCov, Rubocop 
+[**Bank-Tech-Test**](https://github.com/iantfleming/Bank-Tech-Test)   | A solo project in which I had to implement the basic functionality of a bank account with simple features such as withdraw, deposit and view bank statements. | Ruby, Rspec, SimpleCov, Rubocop 
 
 ## Experience
 
 **Self Employed** / (Sep '18 - Present)  
 _Musician_
 
-- For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old all the way up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
-
-- Any experience relevent to software development
+For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old all the way up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
 
 **St Mary & St Michael Catholic Primary School** / (Oct '16 - Jul '18)  
-_SEN Teaching Assistant_
+_Special Educational Needs Teaching Assistant_
+
+Before becoming a freelance musician full time, I worked as a teaching assistant for a student with special educational needs. This role involved many responsibilities, both in helping the student I worked 1-1 with, and serving the school's wider needs. One of my responsibilities was to help to develop strategies for preparing the student I worked with for his year 6 SAT's as much as possible. I would also be in charge of dealing with the behaviour of the student which at times could be volatile. On a larger scale, the school would trust me with ensuring the safety of students while on school trips, involving the following of strict procedures to ensure there were no safety breaches. 
 
 - Any experience relevent to software development
 
@@ -39,7 +39,7 @@ Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 pian
 
 #### Fast learner
 
-Throughout my life, I have demonstrated many times that I am capable of learning new and difficult skills at a very fast rate. Joining Makers Academy and learning several coding languages to a proficient level, including Ruby and Javascript in only 16 weeks demonstrates one of the many examples of my ability to learn and apply skills quickly. Additionally, I took only 3 years after to get to grade 8 in piano from having no experience at all. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
+Throughout my life, I have demonstrated that I am capable of learning new and difficult skills at an impressive speed. Joining Makers Academy and learning several coding languages to a proficient level, including Ruby and Javascript in only 16 weeks demonstrates one of many examples. Additionally, I took only 3 years after to accomplish grade 8 in piano from having no experience of the instrument at all. Through self teaching, I have also succeeded in learning several computer softwares from scratch to a professional standard, including Pro Tools, Sibelius, Adobe Premiere Pro and Opentoonz. 
 
 - Experience
 - Achievements
