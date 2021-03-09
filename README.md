@@ -1,6 +1,6 @@
 ## Ian Fleming
 
-[Projects](##Projects)
+[Projects](#Projects)|[Skills](#Skills)|[Education](#Education)|[Experience](#Experience)|[Hobbies](#Hobbies)|[skills](#Skills)|[LinkedIn](https://www.linkedin.com/in/ian-fleming-a42999111/)
 
 I am a driven and ambitious **Full Stack Junior Developer** looking for a role where I can continue to hone my skills while contributing to the success of the company. I have recently completed a 16 week long intensive software development course with Makers Academy.
 
@@ -16,21 +16,7 @@ I am excited by the scale of opportunites that a tech role has to offer and look
 | [**acebook-JAANIS**](https://github.com/iantfleming/acebook-JAANIS) | A group project I took part in at Makers. We were tasked with creating a clone of Facebook with the ability to comment, edit comments and like posts.  | Ruby, Bootstrap, Javascript, PSQL, Rspec, Heroku             |
 [**Bank-Tech-Test**](https://github.com/iantfleming/Bank-Tech-Test)   | A solo project in which I had to implement the basic functionality of a bank account with simple features such as withdraw, deposit and view bank statements. | Ruby, Rspec, SimpleCov, Rubocop 
 
-## Experience
-
-**Self Employed** / (Sep '18 - Present)  
-_Musician_
-
-For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old all the way up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
-
-**St Mary & St Michael Catholic Primary School** / (Oct '16 - Jul '18)  
-_Special Educational Needs Teaching Assistant_
-
-Before becoming a freelance musician full time, I worked as a teaching assistant for a student with special educational needs. This role involved many responsibilities, both in helping the student I worked 1-1 with, and serving the school's wider needs. One of my responsibilities was to help to develop strategies for preparing the student I worked with for his year 6 SAT's as much as possible. I would also be in charge of dealing with the behaviour of the student which at times could be volatile. On a larger scale, the school would trust me with ensuring the safety of students while on school trips, involving the following of strict procedures to ensure there were no safety breaches. 
-
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Thrives under pressure
 Completing all 16 weeks of Makers Academy, while still working in the evenings put me under a considerable amount of pressure which I was able to overcome and produce excellent work alongside members of various teams I was a part of which can be viewed on my [GitHub](https://github.com/iantfleming) account.
@@ -75,6 +61,18 @@ Just before the first British lockdown took place in March 2020, my main source 
 
 - Distinction in grade 8 piano
 - Merit in grade 8 music theory
+
+## Experience
+
+**Self Employed** / (Sep '18 - Present)  
+_Musician_
+
+For the last 2 years, I have been able to successfully support myself entirely through self employed income, and was even able to adapt to Covid-19 restrictions by moving all of my work online. There are 2 sides to my work as a self employed musican. The first is teaching piano and music theory, which I have done for students ranging from 3 years old all the way up to adult age. The second is composition, where I have composed music for several award winning pieces of theatre and had my music performed in world famous music venues by highly reputable musical ensembles.
+
+**St Mary & St Michael Catholic Primary School** / (Oct '16 - Jul '18)  
+_Special Educational Needs Teaching Assistant_
+
+Before becoming a freelance musician full time, I worked as a teaching assistant for a student with special educational needs. This role involved many responsibilities, both in helping the student I worked 1-1 with, and serving the school's wider needs. One of my responsibilities was to help to develop strategies for preparing the student I worked with for his year 6 SAT's as much as possible. I would also be in charge of dealing with the behaviour of the student which at times could be volatile. On a larger scale, the school would trust me with ensuring the safety of students while on school trips, involving the following of strict procedures to ensure there were no safety breaches. 
 
 ## Hobbies
 - **Software development:** Learning new languages and creating exciting new apps.
