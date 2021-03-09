@@ -1,6 +1,6 @@
 ## Ian Fleming
 
-[Projects](#Projects)|[Skills](#Skills)|[Education](#Education)|[Experience](#Experience)|[Hobbies](#Hobbies)|[skills](#Skills)|[LinkedIn](https://www.linkedin.com/in/ian-fleming-a42999111/)
+[Projects](#Projects)| [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [skills](#Skills) | [LinkedIn](https://www.linkedin.com/in/ian-fleming-a42999111/)
 
 I am a driven and ambitious **Full Stack Junior Developer** looking for a role where I can continue to hone my skills while contributing to the success of the company. I have recently completed a 16 week long intensive software development course with Makers Academy.
 
