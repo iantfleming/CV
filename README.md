@@ -56,6 +56,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Determined
 
+While at Makers I was always determined not only to get the most I possibly could out of the course, but also to complete all work to the highest standard I could, including group projects and solo projects. For the final 2 weeks at Makers, we were given the opportunity to create our own apps from scratch. Much of the apps functionality could have been implemented using Ruby, HTML and CSS. However, this would not have given us the exact results that we wished for, so instead, we decided as a group to use JavaScript, and more importantly, React, which we as a group were all much less familiar with. Using both of these allowed us to create much more dynamic and interesting web pages, giving us the effect we were looking for. My group and I were determined to make the app as close to our vision as possible, even if it meant challenging ourselves in what was a very short time frame for such an ambitious project.
+
 #### Creative
 
 #### Adaptable
