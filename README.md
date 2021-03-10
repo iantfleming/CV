@@ -21,7 +21,7 @@ I am excited by the scale of opportunites that a tech role has to offer and look
 #### Thrives under pressure
 While completing all 16 weeks of Makers Academy, I still had to teach piano in the evenings which put me under a considerable amount of pressure. Through hardwork and dedication, I was able to overcome this difficulty and accomplish many of my coding related goals such as creating several apps from scratch, all of which can be viewed on my [GitHub](https://github.com/iantfleming) account.
 
-Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 piano with a distinction and a merit in ABRSM grade 8 music theory. This helped me to gain a place at Newcastle University. At the same time I was doing this, I was also able to complete the score and perform a full 2 act musical which went on to raise over £600 for a cancer charity through performances of the work.
+Whilst taking a gap year from 2010-11, I was able to complete ABRSM grade 8 piano with a distinction and a merit in ABRSM grade 8 music theory. This helped me to gain a place at Newcastle University. While I was placed under a lot of pressure to achieve these results, around the same time, I was also able to complete the score and perform a full 2 act musical which went on to raise over £600 for a cancer charity through performances of the work.
 
 #### Fast learner
 
