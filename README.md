@@ -72,7 +72,7 @@ For the last 2 years, I have been able to successfully support myself entirely t
 **St Mary & St Michael Catholic Primary School** / (Oct '16 - Jul '18)  
 _Special Educational Needs Teaching Assistant_
 
-Before becoming a freelance musician full time, I worked as a teaching assistant for a student with special educational needs. This role involved many responsibilities, both in helping the student I worked 1-1 with, and serving the school's wider needs. One of my responsibilities was to help to develop strategies for preparing the student I worked with for his year 6 SAT's as much as possible. I would also be in charge of dealing with the behaviour of the student which at times could be volatile. On a larger scale, the school would trust me with ensuring the safety of students while on school trips, involving the following of strict procedures to ensure there were no safety breaches. 
+Before becoming a freelance musician full time, I worked as a teaching assistant with a student who had special educational needs. This role involved many responsibilities, both in helping the student I worked 1-1 with, and serving the school's wider needs. One of my responsibilities was to help to develop strategies for preparing the student I worked with for his year 6 SAT's as much as possible. I would also be in charge of dealing with the behaviour of this student which at times could be volatile. On a larger scale, the school would trust me with ensuring the safety of students while on trips. This involved the following of strict procedures to ensure there were no safety breaches. 
 
 ## Hobbies
 - **Software development:** Learning new languages and creating exciting new apps.
