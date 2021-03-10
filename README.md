@@ -13,7 +13,7 @@ I am excited by the scale of opportunites that a tech role has to offer and look
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Looking Glass**](https://github.com/iantfleming/looking_glass_final_project)            | My final group project at Makers. An app that allows a user to create profiles and share film recommendations with friends. | React, Ruby, Rails, PSQL, Rspec |
-| [**acebook-JAANIS**](https://github.com/iantfleming/acebook-JAANIS) | A group project I took part in at Makers. We were tasked with creating a clone of Facebook with the ability to comment, edit comments and like posts.  | Ruby, Bootstrap, Javascript, PSQL, Rspec, Heroku             |
+| [**acebook-JAANIS**](https://github.com/iantfleming/acebook-JAANIS) | A group project I took part in at Makers. We were tasked with creating a clone of Facebook with the ability to post to the homepage as well as edit and like posts.  | Ruby, Bootstrap, Javascript, PSQL, Rspec, Heroku             |
 [**Bank-Tech-Test**](https://github.com/iantfleming/Bank-Tech-Test)   | A solo project in which I had to implement the basic functionality of a bank account with simple features such as withdraw, deposit and view bank statements. | Ruby, Rspec, SimpleCov, Rubocop 
 
 ## Skills
